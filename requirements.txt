@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+dask[dataframe]
+streamlit
+gdown
+category_encoders
+joblib
+scipy
